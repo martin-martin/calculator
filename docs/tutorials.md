@@ -1,16 +1,16 @@
-This part of the project documentation focuses on a 
-**learning-oriented** approach. You'll learn how to 
+This part of the project documentation focuses on a
+**learning-oriented** approach. You'll learn how to
 get started with the code in this project.
 
-> **Note:** Expand this section by considering the 
+> **Note:** Expand this section by considering the
 >following points:
 
-- help newcomers to get started
-- teach readers about your library by getting them 
-    to write code
-- inspire confidence through examples that work for 
+- Help newcomers with getting started
+- Teach readers about your library by making them
+    write code
+- Inspire confidence through examples that work for
     everyone, repeatably
-- give readers an immediate sense of achievement
-- show concrete examples, no abstractions
-- provided the minimum necessary explanation
-- avoid any distractions
+- Give readers an immediate sense of achievement
+- Show concrete examples, no abstractions
+- Provide the minimum necessary explanation
+- Avoid any distractions
